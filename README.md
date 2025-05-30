@@ -34,10 +34,17 @@ Topic modeling using LDA on textual data with preprocessing in Python.
 - Number of Topics: 5
 - Vectorization: `CountVectorizer` (using pre-tokenized inputs)
 
+### Download Dataset 
+- click the link: https://drive.google.com/drive/folders/1p2GdB35FBLJ6XxdbpV2OuH4s4MAxRmfd?usp=sharing
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 ```bash
-pip install pandas scikit-learn nltk pyLDAvis
+'pip install pandas scikit-learn nltk pyLDAvis'
+
+
+
 
