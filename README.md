@@ -1,6 +1,10 @@
 # LDA-topic-modeling
 Topic modeling using LDA on textual data with preprocessing in Python.
 
+### Download Dataset 
+- click the link: https://drive.google.com/drive/folders/1p2GdB35FBLJ6XxdbpV2OuH4s4MAxRmfd?usp=sharing
+
+
 ## 📌 Features
 
 - Reads and processes a dataset of text documents.
@@ -33,9 +37,6 @@ Topic modeling using LDA on textual data with preprocessing in Python.
 - Model: `LatentDirichletAllocation` from `sklearn.decomposition`
 - Number of Topics: 5
 - Vectorization: `CountVectorizer` (using pre-tokenized inputs)
-
-### Download Dataset 
-- click the link: https://drive.google.com/drive/folders/1p2GdB35FBLJ6XxdbpV2OuH4s4MAxRmfd?usp=sharing
 
 
 ## 🚀 Getting Started
