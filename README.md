@@ -1,4 +1,4 @@
-# lda-topic-modeling
+# LDA-topic-modeling
 Topic modeling using LDA on textual data with preprocessing in Python.
 
 ## 📌 Features
